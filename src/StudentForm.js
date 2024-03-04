@@ -58,7 +58,6 @@ const StudentForm = () => {
       <br />
       <button type="submit">Submit</button>
     </form>
-  );
-};
+  );};
 
 export default StudentForm;
